@@ -11,7 +11,7 @@
 
 ✔ I’m currently Developing **Backend and Frontend** CyberSecurity Events **@Pirates Linux Organization** as well as **Backend** Discord Trading Services **@CryptoFuse**<br>
 
-✔ I’m looking to collaborate with any **Open - Source Contribution**<br>
+✔ I’m looking to collaborate with any **Open Sources**<br>
 
 [![ItzMaxTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmaxtv)](https://github.com/anuraghazra/github-readme-stats)
 
