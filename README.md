@@ -7,9 +7,12 @@
 
 
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Pronouns: ***He/Him*** or ***TeamMaker***😉 <br>
+
 ✔ I’m currently Developing **Backend and Frontend** CyberSecurity Events **@Pirates Linux Organization** as well as **Backend** Discord Trading Services **@CryptoFuse**<br>
+
 ✔ I’m currently learning **Python** & **ReactJS**<br>
+
 ✔ I’m looking to collaborate with any **Open - Source Contribution**<br>
 
 [![ItzMaxTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmaxtv)](https://github.com/anuraghazra/github-readme-stats)
