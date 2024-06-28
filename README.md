@@ -13,7 +13,7 @@
 
 ✔ I’m looking to collaborate with any **Open Sources**<br>
 
-[![ItzMaxTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmaxtv)](https://github.com/anuraghazra/github-readme-stats)
+[![ItzMaxTV's GitHub stats](https://github-readme-stats.vercel.app/api?username=itisrain)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 
